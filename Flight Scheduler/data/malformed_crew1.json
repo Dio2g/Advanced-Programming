@@ -1,0 +1,58 @@
+{
+  "pilots": [
+    {
+      "forename": "Vernon",
+      "surname": "Schmuck",
+      "homebase": "LGW",
+      "typeRatings": [
+        "A320"
+      ]
+    },
+    {
+      "forename": "Teresa",
+      "surname": "Severa",
+      "homebase": "GLA",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Dung",
+      "surname": "Bohr",
+      "homebase": "BFS",
+      "typeRatings": [
+        "B757"
+      ]
+    }
+  ],
+  "cabincrew": [
+    {
+      "forename": "Malia",
+      "surname": "Dufault",
+      "homebase": "LGW",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+	{
+      "forename": "Cheri",
+      "surname": "Driskill",
+      "homebase": "EMA",
+      "typeRatings": [
+        "B767",
+        "A330",
+        "A321",
+        "B757"
+      ]
+    },
+    {
+      "forename": "Johnette",
+      "surname": "Sease",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    }
+  ]
+}
+

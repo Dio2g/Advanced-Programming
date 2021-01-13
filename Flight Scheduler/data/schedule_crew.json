@@ -1,0 +1,304 @@
+{
+  "pilots": [
+	{
+      "forename": "Chanell",
+      "surname": "Likes",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Richie",
+      "surname": "Jordison",
+      "rank": "CAPTAIN",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Elden",
+      "surname": "Trojanowski",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Gaylord",
+      "surname": "Eckart",
+      "rank": "CAPTAIN",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Morton",
+      "surname": "Blowers",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B757",
+        "A321"
+      ]
+    },
+    {
+      "forename": "Loyd",
+      "surname": "Meneely",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B757"
+      ]
+    },
+    {
+      "forename": "Miguel",
+      "surname": "Duran",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A330"
+      ]
+    },
+    {
+      "forename": "Noah",
+      "surname": "Flory",
+      "rank": "FIRST_OFFICER",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A330"
+      ]
+    }
+  ],
+  "cabincrew": [
+	{
+      "forename": "Efren",
+      "surname": "Moor",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A320",
+        "B757",
+        "A321"
+      ]
+    },
+    {
+      "forename": "Cherryl",
+      "surname": "Cowher",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A320",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Adrianna",
+      "surname": "Hoar",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A330"
+      ]
+    },
+    {
+      "forename": "Shelba",
+      "surname": "Magdaleno",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A320"
+      ]
+    },
+    {
+      "forename": "Tangela",
+      "surname": "Tennant",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "B757",
+        "A320"
+      ]
+    },
+    {
+      "forename": "Layne",
+      "surname": "Ratzlaff",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Amelia",
+      "surname": "Aderholt",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B757",
+        "A320",
+        "A321"
+      ]
+    },
+    {
+      "forename": "Jerome",
+      "surname": "Craw",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A320"
+      ]
+    },
+    {
+      "forename": "Rebecca",
+      "surname": "Vallecillo",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "B757"
+      ]
+    },
+    {
+      "forename": "Ilana",
+      "surname": "Launius",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "B757"
+      ]
+    },
+    {
+      "forename": "Ivory",
+      "surname": "Schur",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B767",
+        "A320",
+        "A321"
+      ]
+    },
+    {
+      "forename": "Rosina",
+      "surname": "Elks",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Lenny",
+      "surname": "Enderle",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "B767"
+      ]
+    },
+    {
+      "forename": "Inge",
+      "surname": "Mcgilvery",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "A320",
+        "B767"
+      ]
+    },
+    {
+      "forename": "Seymour",
+      "surname": "Sellers",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A330"
+      ]
+    },
+    {
+      "forename": "Kymberly",
+      "surname": "Bearse",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A320",
+        "A321",
+        "B757",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Austin",
+      "surname": "Marie",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321"
+      ]
+    },
+    {
+      "forename": "Maile",
+      "surname": "Boots",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A320",
+        "A321",
+        "B767"
+      ]
+    },
+    {
+      "forename": "Marvel",
+      "surname": "Toenjes",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A320",
+        "B767",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Telma",
+      "surname": "Bevacqua",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A330",
+        "A320",
+        "B767"
+      ]
+    },
+    {
+      "forename": "Phylis",
+      "surname": "Towry",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A321",
+        "B757"
+      ]
+    },
+    {
+      "forename": "Kayleen",
+      "surname": "Basler",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B767",
+        "A321"
+      ]
+    },
+    {
+      "forename": "Shery",
+      "surname": "Mohan",
+      "homebase": "MAN",
+      "typeRatings": [
+        "B767",
+        "B757",
+        "A330"
+      ]
+    },
+    {
+      "forename": "Damien",
+      "surname": "Classen",
+      "homebase": "MAN",
+      "typeRatings": [
+        "A320",
+        "A321"
+      ]
+    }	
+  ]
+ }

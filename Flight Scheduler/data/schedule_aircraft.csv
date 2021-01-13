@@ -1,0 +1,5 @@
+Tailcode,TypeCode,Manufacturer,Model,Seats,CabinCrewRequired,StartingPosition
+G-JMAB,B757,Boeing,757,280,6,MAN
+G-TCAE,A320,Airbus,A320,180,4,MAN
+G-TCDC,A321,Airbus,A321,220,5,MAN
+G-TCXB,A330,Airbus,A330,322,8,MAN

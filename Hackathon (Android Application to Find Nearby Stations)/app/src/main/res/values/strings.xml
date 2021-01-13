@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackathonLatest</string>
+    <string name="search">Search Nearby Stations</string>
+    <string name="togON">MAP ON</string>
+    <string name="togOFF">MAP OFF</string>
+    <string name="mapbox_token">pk.eyJ1Ijoib3JlYmVycnkiLCJhIjoiY2s4ZGpkNzlrMHgxODNmdHE2OXI1ZTc1MSJ9.iUOOKey1UXLwm63PQm7Ihw</string>
+</resources>

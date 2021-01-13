@@ -1,0 +1,6 @@
+Tailcode,TypeCode,Manufacturer,Model,Seats,CabinCrewRequired,StartingPosition
+G-AAAA,B737,Boeing,737,192,4,MAN
+PH-OFDF70,Fokker,70,85,2,AMS
+PH-EZA,E190,Embraer,190,50,2,BFS
+G-AAAB,A330,Airbus,A330,329,8,LHR
+G-AAAC,A380,Airbus,A380,489,10,DXB
